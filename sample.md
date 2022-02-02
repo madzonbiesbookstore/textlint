@@ -1,2 +1,3 @@
+npx textlint --fix sample.md
+
 textlint を使って
-npx textlint --fix xxx.md
